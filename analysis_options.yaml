@@ -1,0 +1,13 @@
+analyzer:
+  errors:
+    constant_identifier_names: ignore
+    must_be_immutable: ignore
+    prefer_const_constructors: ignore
+    prefer_const_constructors_in_immutables: ignore
+    prefer_const_literals_to_create_immutables: ignore
+    sort_child_properties_last: ignore
+    use_key_in_widget_constructors: ignore ignore ignore
+include: package:flutter_lints/flutter.yaml
+linter:
+  rules:
+    
